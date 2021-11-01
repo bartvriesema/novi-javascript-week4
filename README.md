@@ -90,7 +90,7 @@ Maak deze gehele opdracht eerst alsof je het voor één tv doet. We gaan één t
   of jouw functie ook werkt wanneer er een ander tv object wordt meegegeven.
 
 * **Opdracht 5b:** Zorg ervoor dat de prijs van een tv netjes geformat wordt. Maak een functie die één tv-prijs als
-  parameter verwacht (zoals `379`) en daar de volgende string van maakt: `€379,-`. Test of jouw functie ook werkt
+  parameter verwacht (zoals `379`) en daar de volgende string van maakt: `,-`. Test of jouw functie ook werkt
   wanneer er een andere tv-prijs wordt meegegeven.
 
 * **Opdracht 5c:** Zorg ervoor dat er een string wordt gegenereerd voor alle beschikbare schermgroottes van één tv, in
